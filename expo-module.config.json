@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["ExpoKakaoAdModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.kakaoad.ExpoKakaoAdModule"]
+  }
+}
